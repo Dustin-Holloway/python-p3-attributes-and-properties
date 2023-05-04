@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from dog import Dog
+from dog import Dog, APPROVED_BREEDS
 
 import io
 import sys
